@@ -1,10 +1,9 @@
 (Under construction...)
 (🚜공사중입니다🚜)
-## 웹 프론트엔드 개발자(를 원하는) 대근입니다
 
 <div align="center">
 
-<h3>(want to be)Web Frontend Developer Daegeun</h3>
+<h3>웹 프론트엔드 개발자(를 원하는) 대근입니다<br /><br />(want to be)Web Frontend Developer Daegeun</h3>
 
 <p>여유롭지만 느리지 않게 달려가자<br/>Develop leisurely, but not slowly</p>
 
