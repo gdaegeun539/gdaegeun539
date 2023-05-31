@@ -1,6 +1,3 @@
-(Under construction...)
-(🚜공사중입니다🚜)
-
 <div align="center">
 
 <h3>웹 프론트엔드 개발자(를 원하는) 대근입니다<br />(want to be)Web Frontend Developer Daegeun</h3>
@@ -57,7 +54,7 @@
   
 
 <div align="center">
-  <h4>상태창</h4> 
+  <h4>상태창 / My Status Summary</h4> 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdaegeun539&layout=compact" alt="Daegeun's Top Langs"/></a>
 
 
