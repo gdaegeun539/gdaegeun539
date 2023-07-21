@@ -25,15 +25,14 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="bootstrap badge" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="typescript badge" />
 <img src="https://img.shields.io/badge/dotenv-ECD53F?style=flat&logo=dotenv&logoColor=white" alt="dotenv badge" />
+<br />
 <img src="https://img.shields.io/badge/Styled Components(with emotion)-DB7093?style=flat&logo=styledcomponents&logoColor=white" alt="styled-components badge" />
 <br />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="kotlin badge" />
 <img src="https://img.shields.io/badge/Android SDK-3DDC84?style=flat&logo=android&logoColor=white" alt="android sdk badge" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python badge" />
-<img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitkraken&logoColor=white" alt="gitkraken badge" />
 <br />
-<img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white" alt="insomnia badge" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="postman badge" />
+<img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitkraken&logoColor=white" alt="gitkraken badge" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="figma badge" />
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="notion badge" />
 
@@ -43,8 +42,11 @@
 <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white" alt="expressjs badge" />
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="spring badge" />
 <!-- <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat&logo=spring%20boot&logoColor=white" alt="spring boot badge" /> -->
+<br />
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white" alt="sourcetree badge" />
 <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" alt="eclipse badge" />
+<img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white" alt="insomnia badge" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="postman badge" />
 
 
 <br />
@@ -62,6 +64,13 @@
 [![Daegeun의 Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ydk2284)](https://solved.ac/ydk2284)
 
 <br/>
+<hr/>
+
+</div>
+
+<div align="center">
+  <h4>?인턴?</h4>
+  작성중...
 </div>
   
 <!--
