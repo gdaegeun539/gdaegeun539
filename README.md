@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3>웹 프론트엔드 개발자(를 원하는) 대근입니다<br />(want to be)Web Frontend Developer Daegeun</h3>
+<h3>크로스 플랫폼/안드로이드 앱 개발자가 되어버린<br />웹 프론트엔드 개발자(를 원하는) 대근입니다<br /><br />App cross platform/Android developer<br />(want to be)Web frontend developer Daegeun</h3>
 
 <br />
 <p>여유롭지만 느리지 않게 달려가자<br/>Develop leisurely, but not slowly</p>
@@ -8,12 +8,12 @@
 <hr />
 
 <h4>이거는 자신있어요 / I have experience with this...</h4>
+<img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="flutter badge" />
+<img src="https://img.shields.io/badge/dart-0175C2?style=flat&logo=dart&logoColor=white" alt="dart badge" />
 <img src="https://img.shields.io/badge/JavaScript(ES6)-f7df1e?style=flat&logo=javascript&logoColor=white" alt="javascript badge" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="html5 badge" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="css3 badge" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="react badge" />
-<img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="flutter badge" />
-<img src="https://img.shields.io/badge/dart-0175C2?style=flat&logo=dart&logoColor=white" alt="dart badge" />
 <br />
 <img src="https://img.shields.io/badge/mui-007FFF?style=flat&logo=mui&logoColor=white" alt="mui badge" />
 <img src="https://img.shields.io/badge/lodash-3492FF?style=flat&logo=lodash&logoColor=white" alt="lodash badge" />
@@ -21,16 +21,16 @@
 <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=intellijidea&logoColor=white" alt="intellij idea badge" />
 
 <h4>이거는 조금 해봤어요 / I do a little bit of this...</h4>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="kotlin badge" />
+<img src="https://img.shields.io/badge/Android SDK-3DDC84?style=flat&logo=android&logoColor=white" alt="android sdk badge" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="git badge" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="bootstrap badge" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="typescript badge" />
-<img src="https://img.shields.io/badge/dotenv-ECD53F?style=flat&logo=dotenv&logoColor=white" alt="dotenv badge" />
 <br />
 <img src="https://img.shields.io/badge/Styled Components(with emotion)-DB7093?style=flat&logo=styledcomponents&logoColor=white" alt="styled-components badge" />
 <br />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="kotlin badge" />
-<img src="https://img.shields.io/badge/Android SDK-3DDC84?style=flat&logo=android&logoColor=white" alt="android sdk badge" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="bootstrap badge" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python badge" />
+<img src="https://img.shields.io/badge/dotenv-ECD53F?style=flat&logo=dotenv&logoColor=white" alt="dotenv badge" />
 <br />
 <img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitkraken&logoColor=white" alt="gitkraken badge" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="figma badge" />
@@ -69,8 +69,8 @@
 </div>
 
 <div align="center">
-  <h4>?인턴?</h4>
-  작성중...
+  <h4>경력</h4>
+  - <a href="https://www.salphadtx.com/">에스알파테라퓨틱스</a>(인턴): 2023. 07. 03 ~ 2023. 08. 29
 </div>
   
 <!--
