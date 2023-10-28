@@ -10,6 +10,9 @@
 <h4>이거는 자신있어요 / I have experience with this...</h4>
 <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="flutter badge" />
 <img src="https://img.shields.io/badge/dart-0175C2?style=flat&logo=dart&logoColor=white" alt="dart badge" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="kotlin badge" />
+<img src="https://img.shields.io/badge/Android SDK-3DDC84?style=flat&logo=android&logoColor=white" alt="android sdk badge" />
+<br />
 <img src="https://img.shields.io/badge/JavaScript(ES6)-f7df1e?style=flat&logo=javascript&logoColor=white" alt="javascript badge" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="html5 badge" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="css3 badge" />
@@ -21,8 +24,6 @@
 <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=intellijidea&logoColor=white" alt="intellij idea badge" />
 
 <h4>이거는 조금 해봤어요 / I do a little bit of this...</h4>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="kotlin badge" />
-<img src="https://img.shields.io/badge/Android SDK-3DDC84?style=flat&logo=android&logoColor=white" alt="android sdk badge" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="git badge" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="typescript badge" />
 <br />
