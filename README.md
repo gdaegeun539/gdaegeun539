@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3>크로스 플랫폼/안드로이드 앱 개발자가 되어버린<br />웹 프론트엔드 개발자(를 원하는) 대근입니다<br /><br />App cross platform/Android developer<br />(want to be)Web frontend developer Daegeun</h3>
+<h3>크로스 플랫폼/안드로이드 앱 개발자가 되어버린 대근입니다<br /><br />App cross platform/Android developer Daegeun</h3>
 
 <br />
 <p>여유롭지만 느리지 않게 달려가자<br/>Develop leisurely, but not slowly</p>
