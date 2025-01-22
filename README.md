@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/dart-0175C2?style=flat&logo=dart&logoColor=white" alt="dart badge" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="kotlin badge" />
 <img src="https://img.shields.io/badge/Android SDK-3DDC84?style=flat&logo=android&logoColor=white" alt="android sdk badge" />
+<img src="https://img.shields.io/badge/Wear OS-4285F4?style=flat&logo=wearos&logoColor=white" alt="wear os badge" />
 <br />
 <br />
 
@@ -45,10 +46,27 @@
 </div>
 
 <div align="center">
-  <h4>경력/Work experience</h4>
-  - <a href="https://www.salphadtx.com/">에스알파테라퓨틱스</a>(인턴): 2023. 07. 03 ~ 2023. 08. 29
-  <br />
-  - <a href="https://www.salphadtx.com/">에스알파테라퓨틱스</a>: 2023. 09. 01 ~ 현재(now)
+  <h4>경력/Work experience</h4><table>
+  <thead>
+    <tr>
+      <th>회사명/Company</th>
+      <th>기간/Period of work</th>
+      <th>주 기술/Main tech stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.salphadtx.com/">에스알파테라퓨틱스/S-Alpha Therapeutics, Inc.</a></td>
+      <td>2023.07.03 ~ 2023.08.29</td>
+      <td>Flutter</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.salphadtx.com/">에스알파테라퓨틱스/S-Alpha Therapeutics, Inc.</a></td>
+      <td>2023.09.01 ~ 현재(now)</td>
+      <td>Flutter / Android / Wear OS</td>
+    </tr>
+  </tbody>
+</table>
 </div>
   
 <!--
