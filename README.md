@@ -8,8 +8,8 @@
 <hr />
 
 <h4>주 사용 기술/Main tech stacks</h4>
-<img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="flutter badge" />
-<img src="https://img.shields.io/badge/dart-0175C2?style=flat&logo=dart&logoColor=white" alt="dart badge" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="flutter badge" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="dart badge" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="kotlin badge" />
 <img src="https://img.shields.io/badge/Android SDK-3DDC84?style=flat&logo=android&logoColor=white" alt="android sdk badge" />
 <img src="https://img.shields.io/badge/Wear OS-4285F4?style=flat&logo=wearos&logoColor=white" alt="wear os badge" />
@@ -29,20 +29,6 @@
 
 <br />
 <hr />
-</div>
-  
-
-<div align="center">
-  <h4>개인 상태 요약/My Status Summary</h4> 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=gdaegeun539&count_private=true&show_icons=true" alt="Daegeun's GitHub stats" />
-
-[![Daegeun의 Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ydk2284)](https://solved.ac/ydk2284)
-
-<br/>
-<hr/>
-
 </div>
 
 <div align="center">
@@ -67,6 +53,22 @@
     </tr>
   </tbody>
 </table>
+
+<br/>
+<hr/>
+</div>
+
+<div align="center">
+  <h4>개인 상태 요약/My Status Summary</h4> 
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=gdaegeun539&count_private=true&show_icons=true" alt="Daegeun's GitHub stats" />
+
+[![Daegeun의 Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ydk2284)](https://solved.ac/ydk2284)
+
+<br/>
+<hr/>
+
 </div>
   
 <!--
