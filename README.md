@@ -18,13 +18,15 @@
 
 <h4>주 사용 툴/Main coworking tools</h4>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="git badge" />
-<img src="https://img.shields.io/badge/dotenv-ECD53F?style=flat&logo=dotenv&logoColor=white" alt="dotenv badge" />
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="visual studio code badge" />
+<!-- <img src="https://img.shields.io/badge/dotenv-ECD53F?style=flat&logo=dotenv&logoColor=white" alt="dotenv badge" /> -->
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logoColor=white" alt="visual studio code badge" /> <!--logo=visual-studio-code&-->
 <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=intellijidea&logoColor=white" alt="intellij idea badge" />
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" alt="intellij idea badge" />
 <br />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="postman badge" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="figma badge" />
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="notion badge" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="jira badge" />
 
 
 <br />
