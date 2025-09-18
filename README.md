@@ -61,10 +61,12 @@
 </div>
 
 <div align="center">
-  <h4>개인 상태 요약/My Status Summary</h4> 
+  <h4>개인 상태/My Status</h4> 
 
-
+<!--
+API 리밋걸려서 주석처리함 2025.09.18.
 <img src="https://github-readme-stats.vercel.app/api?username=gdaegeun539&count_private=true&show_icons=true" alt="Daegeun's GitHub stats" />
+-->
 
 [![Daegeun의 Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ydk2284)](https://solved.ac/ydk2284)
 
