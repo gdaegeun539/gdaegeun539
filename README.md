@@ -40,18 +40,27 @@
       <th>회사명 / Company</th>
       <th>기간 / Period of work</th>
       <th>주 기술 / Main tech stack</th>
+      <th>비고 / Note</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://www.hello-on.com/company">트리플스퀘어 / Triplesquarez</a></td>
+      <td>2025.09.30 ~ 2025.11.06</td>
+      <td>Android / Wear OS</td>
+      <td>외주 계약 / Outsourcing</td>
+    </tr>
+    <tr>
       <td><a href="https://www.salphadtx.com/">에스알파테라퓨틱스 / S-Alpha Therapeutics, Inc.</a></td>
       <td>2023.09.01 ~ 2025.06.11</td>
       <td>Flutter / Android / Wear OS</td>
+      <td/>
     </tr>
     <tr>
       <td><a href="https://www.salphadtx.com/">에스알파테라퓨틱스 / S-Alpha Therapeutics, Inc.</a></td>
       <td>2023.07.03 ~ 2023.08.29</td>
       <td>Flutter</td>
+      <td/>
     </tr>
   </tbody>
 </table>
