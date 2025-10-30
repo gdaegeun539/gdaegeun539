@@ -34,10 +34,10 @@
 </div>
 
 <div align="center">
-  <h4>경력/Work experience</h4><table>
+  <h4>경력, 경험/Career, Experience</h4><table>
   <thead>
     <tr>
-      <th>회사명 / Company</th>
+      <th>회사명 혹은 팀명 / Company name or team name</th>
       <th>기간 / Period of work</th>
       <th>주 기술 / Main tech stack</th>
       <th>비고 / Note</th>
@@ -49,6 +49,12 @@
       <td>2025.09.30 ~ 2025.11.06</td>
       <td>Android / Wear OS</td>
       <td>외주 계약 / Outsourcing</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/project-lyrics">Feelin</a></td>
+      <td>2025.07.01 ~ 진행중(in progress)</td>
+      <td>Android</td>
+      <td>사이드 프로젝트 / Side project</td>
     </tr>
     <tr>
       <td><a href="https://www.salphadtx.com/">에스알파테라퓨틱스 / S-Alpha Therapeutics, Inc.</a></td>
