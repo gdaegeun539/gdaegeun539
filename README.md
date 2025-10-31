@@ -21,13 +21,13 @@
 <img src="https://img.shields.io/badge/Cursor-1B1914?style=flat&logoColor=white" alt="cursor ide badge" /> <!-- &logo=cursor -->
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" alt="android studio badge" />
 <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=intellijidea&logoColor=white" alt="intellij idea badge" />
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logoColor=white" alt="visual studio code badge" />
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat" alt="visual studio code badge" />
 <br />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="postman badge" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="figma badge" />
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="notion badge" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="jira badge" />
-
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat" alt="slack badge" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="figma badge" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="postman badge" />
 
 <br />
 <hr />
@@ -112,7 +112,6 @@ API 리밋걸려서 주석처리함 2025.09.18.
 <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white" alt="expressjs badge" />
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="spring badge" />
 <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat&logo=spring%20boot&logoColor=white" alt="spring boot badge" />
-<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white" alt="sourcetree badge" />
 <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" alt="eclipse badge" />
 <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white" alt="insomnia badge" />
 -->
