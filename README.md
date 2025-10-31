@@ -66,7 +66,7 @@
       <td><a href="https://www.salphadtx.com/">에스알파테라퓨틱스 / S-Alpha Therapeutics, Inc.</a></td>
       <td>2023.07.03 ~ 2023.08.29</td>
       <td>Flutter</td>
-      <td/>
+      <td>인턴 / Intern</td>
     </tr>
   </tbody>
 </table>
