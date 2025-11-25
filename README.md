@@ -3,7 +3,7 @@
 <h3>플러터/안드로이드 개발자 대근입니다<br /><br />Flutter/Android developer Daegeun</h3>
 
 <br />
-<p>여유롭지만 느리지 않게 달려가자<br/>Develop leisurely, but not slowly</p>
+<p>안정적이면서 유용한 앱을 만들기<br/>Creating stable and useful apps</p>
 
 <hr />
 
