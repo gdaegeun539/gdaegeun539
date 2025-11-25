@@ -79,8 +79,9 @@
 
 <p align="center" float="left">
 
-<!-- API 리밋걸리면 또 주석처리하자 2025.11.12. -->
+<!-- 아오 또 API 리밋걸림인줄 알았는데 이번엔 503이네 내렸나 2025.11.25.
 <img src="https://github-readme-stats.vercel.app/api?username=gdaegeun539&count_private=true&show_icons=true" alt="Daegeun's GitHub stats" />
+-->
 
 <!-- <a href="https://solved.ac/profile/ydk2284"> -->
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ydk2284" alt="Daegeun의 Solved.ac 프로필" />
