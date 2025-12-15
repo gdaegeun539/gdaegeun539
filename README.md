@@ -45,8 +45,14 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://topping.io/">Topping</a></td>
+      <td>2025.12.15.-진행중</td>
+      <td>Flutter</td>
+      <td/>
+    </tr>
+    <tr>
       <td><a href="https://www.hello-on.com/company">트리플스퀘어 / Triplesquarez</a></td>
-      <td>2025.09.30.-2025.11.06.</td>
+      <td>2025.09.30.-진행중</td>
       <td>Android / Wear OS</td>
       <td>외주 계약 / Outsourcing</td>
     </tr>
