@@ -98,7 +98,7 @@
 
 <!--
 뱃지
-<img src="https://img.shields.io/badge/Cursor-1B1914?style=flat&logoColor=white" alt="cursor ide badge" /> <!-- &logo=cursor -->
+<img src="https://img.shields.io/badge/Cursor-1B1914?style=flat&logoColor=white&logo=cursor" alt="cursor ide badge" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="typescript badge" />
 <img src="https://img.shields.io/badge/lodash-3492FF?style=flat&logo=lodash&logoColor=white" alt="lodash badge" />
 <img src="https://img.shields.io/badge/JavaScript(ES6)-f7df1e?style=flat&logo=javascript&logoColor=white" alt="javascript badge" />
