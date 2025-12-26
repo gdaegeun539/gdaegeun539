@@ -18,10 +18,9 @@
 
 <h4>주 사용 툴/Main coworking tools</h4>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="git badge" />
-<img src="https://img.shields.io/badge/Cursor-1B1914?style=flat&logoColor=white" alt="cursor ide badge" /> <!-- &logo=cursor -->
+<img src="https://img.shields.io/badge/Antigravity-007ACC?style=flat" alt="antigravity badge" />
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" alt="android studio badge" />
 <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=intellijidea&logoColor=white" alt="intellij idea badge" />
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat" alt="visual studio code badge" />
 <br />
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="notion badge" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="jira badge" />
@@ -46,13 +45,13 @@
   <tbody>
     <tr>
       <td><a href="https://topping.io/">Topping</a></td>
-      <td>2025.12.15.-진행중</td>
+      <td>2025.12.15.-진행중(In progress)</td>
       <td>Flutter</td>
       <td/>
     </tr>
     <tr>
       <td><a href="https://www.hello-on.com/company">트리플스퀘어 / Triplesquarez</a></td>
-      <td>2025.09.30.-진행중</td>
+      <td>2025.09.30.-진행중(In progress)</td>
       <td>Android / Wear OS</td>
       <td>외주 계약 / Outsourcing</td>
     </tr>
@@ -99,6 +98,7 @@
 
 <!--
 뱃지
+<img src="https://img.shields.io/badge/Cursor-1B1914?style=flat&logoColor=white" alt="cursor ide badge" /> <!-- &logo=cursor -->
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="typescript badge" />
 <img src="https://img.shields.io/badge/lodash-3492FF?style=flat&logo=lodash&logoColor=white" alt="lodash badge" />
 <img src="https://img.shields.io/badge/JavaScript(ES6)-f7df1e?style=flat&logo=javascript&logoColor=white" alt="javascript badge" />
