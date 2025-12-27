@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="jira badge" />
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat" alt="slack badge" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="figma badge" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="postman badge" />
+<img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white" alt="insomnia badge" />
 
 <br />
 <hr />
@@ -113,4 +113,5 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="spring badge" />
 <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat&logo=spring%20boot&logoColor=white" alt="spring boot badge" />
 <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white" alt="insomnia badge" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="postman badge" />
 -->
