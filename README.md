@@ -51,7 +51,7 @@
     </tr>
     <tr>
       <td><a href="https://www.hello-on.com/company">트리플스퀘어 / Triplesquarez</a></td>
-      <td>2025.09.30.-진행중(In progress)</td>
+      <td>2025.09.30.-2026.01.09.</td>
       <td>Android / Wear OS</td>
       <td>외주 계약 / Outsourcing</td>
     </tr>
