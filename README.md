@@ -18,9 +18,9 @@
 
 <h4>주 사용 툴/Main coworking tools</h4>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="git badge" />
+<img src="https://img.shields.io/badge/OpenCode-000000?style=flat" alt="opencode badge" />
 <img src="https://img.shields.io/badge/Antigravity-007ACC?style=flat" alt="antigravity badge" />
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" alt="android studio badge" />
-<img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=intellijidea&logoColor=white" alt="intellij idea badge" />
 <br />
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="notion badge" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="jira badge" />
@@ -114,4 +114,5 @@
 <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat&logo=spring%20boot&logoColor=white" alt="spring boot badge" />
 <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white" alt="insomnia badge" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="postman badge" />
+<img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=intellijidea&logoColor=white" alt="intellij idea badge" />
 -->
