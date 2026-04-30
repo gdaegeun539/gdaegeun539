@@ -80,17 +80,15 @@
 <hr/>
 </div>
 
+<!--
 <h4 align="center">개인 상태/My Status</h4>
 
 <p align="center" float="left">
 
-<!-- 아오 또 API 리밋걸림인줄 알았는데 이번엔 503이네 내렸나 2025.11.25.
+원저작자 비용문제도 있고 셀프호스팅 하자 2026.04.30.
 <img src="https://github-readme-stats.vercel.app/api?username=gdaegeun539&count_private=true&show_icons=true" alt="Daegeun's GitHub stats" />
--->
 
-<!-- <a href="https://solved.ac/profile/ydk2284"> -->
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ydk2284" alt="Daegeun의 Solved.ac 프로필" />
-<!-- </a> -->
+-->
 
 <br/>
 
