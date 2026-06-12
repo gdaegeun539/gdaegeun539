@@ -19,7 +19,7 @@
 <h4>주 사용 툴/Main coworking tools</h4>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="git badge" />
 <img src="https://img.shields.io/badge/OpenCode-000000?style=flat" alt="opencode badge" />
-<img src="https://img.shields.io/badge/Antigravity-007ACC?style=flat" alt="antigravity badge" />
+<img src="https://img.shields.io/badge/Codex-6F95FA?style=flat" alt="codex badge" />
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" alt="android studio badge" />
 <br />
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="notion badge" />
